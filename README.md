@@ -15,7 +15,7 @@ In this repository I will share the source code of all the projects of **[Udacit
 
 #### 3- Recurrent Neural Networks
 - **Summary:** Recurrent Neural Networks are able to learn from sequences of data . RNNs also work great as feature extractors for text which you can use for things like sentiment analysis. You’ll use recurrent networks to generate new text and translate from one language to another. In this section we'll learn the concept behind RNNs and a brief introduction to reinforcement learning to train an AI agent by giving it rewards for performing correct actions.  
-- **Keywords:** RNNs,Hyperparameters,Long Short Term Memory (LSTM), Word Embeddings,Word2Vec,TensorBoard.
+- **Keywords:** RNNs,Hyperparameters,Long Short Term Memory (LSTM), Word Embeddings, Word2Vec,TensorBoard.
 
 #### 4- Generative Adversarial Networks 
 - **Summary:** Generative adversarial networks (GANS) pit two neural networks in competition, allowing these networks to model reality with amazing accuracy. Ian Goodfellow, the inventor of GANs, will show you how these fascinating models work and how to build them.
