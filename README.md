@@ -22,4 +22,4 @@ In this repository I will share the source code of all the projects of **[Udacit
 - **Keywords:** GANs.
 
 ## Projects :
-#### [Project01-Predict daily bike rental ridership](Project01-Predict_daily_bike_rental _ridership) 
+#### [Project -1 Predict daily bike rental ridership](Project01-Predict_daily_bike_rental _ridership) 
