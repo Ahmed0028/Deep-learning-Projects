@@ -20,3 +20,6 @@ In this repository I will share the source code of all the projects of **[Udacit
 #### 4- Generative Adversarial Networks 
 - **Summary:** Generative adversarial networks (GANS) pit two neural networks in competition, allowing these networks to model reality with amazing accuracy. Ian Goodfellow, the inventor of GANs, will show you how these fascinating models work and how to build them.
 - **Keywords:** GANs.
+
+## Projects :
+#### [Project01-Predict daily bike rental ridership](Project01-Predict_daily_bike_rental _ridership) 
