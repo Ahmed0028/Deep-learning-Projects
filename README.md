@@ -25,6 +25,8 @@ In this repository I will share the source code of all the projects of **[Udacit
 #### [Project -1  Predict daily bike rental ridership](https://github.com/Ahmed0028/Deep-learning-Projects/tree/master/Project01-Predict%20daily%20bike%20rental%20ridership) 
 - **Summary:** Build and train your own Neural Network from scratch to predict the number of bikeshare users on a given day.
 
+#### [Project -2 Image classification](https://github.com/Ahmed0028/Deep-learning-Projects/tree/master/Project02-Image-classification) 
+- **Summary:** Classify images from the CIFAR-10 dataset using a convolutional neural network.
 
 
 #### [Project -3 TV Script Generation](https://github.com/Ahmed0028/Deep-learning-Projects/tree/master/Project02-Image-classification) 
