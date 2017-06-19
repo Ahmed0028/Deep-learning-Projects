@@ -36,6 +36,4 @@ In this repository I will share the source code of all the projects of **[Udacit
 - **Summary:** Translate from one language to another.
 
 
-#### [Project -5 Face Generation](https://github.com/Ahmed0028/Deep-learning-Projects/tree/master/Project05%20-Face%20Generation) 
-- **Summary:** Compete two neural networks against each other to generate realistic faces.
 
