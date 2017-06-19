@@ -39,4 +39,3 @@ In this repository I will share the source code of all the projects of **[Udacit
 #### [Project -5 Face Generation](https://github.com/Ahmed0028/Deep-learning-Projects/tree/master/Project05%20-Face%20Generation) 
 - **Summary:** Compete two neural networks against each other to generate realistic faces.
 
-$$e^x=\sum_{i=0}^\infty \frac{1}{i!}x^i$$
