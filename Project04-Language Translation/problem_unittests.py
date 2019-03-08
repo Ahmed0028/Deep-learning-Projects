@@ -1,8 +1,3 @@
-import numpy as np
-import tensorflow as tf
-import itertools
-import collections
-import helper
 
 
 def _print_success_message():
